@@ -1,0 +1,4 @@
+D'abord il faut entrer dans "Ethernet-trame",faire un clic droite sur "démarrer le challenge ", copier le lien et l'ouvrir dans un nouvel onglet 
+et on va avoir une code en "HEX" et il faut le convertir en code "ASCII" ,ensuite on récupère la code en base64 (une code avec un ou plusieur égal)
+après  on va le décoder avec "Base64 decode" et enfin on obtient le mot de passe.
+

@@ -1,0 +1,8 @@
+ Même étape que FTP-Authentification mais cette fois ci il faut entrer dans "Telnet-Authentification",faire un clic droite
+ sur "démarrer le challenge" copier le lien et l'ouvrir dans un nouvel onglet et ca va télécharger automatiquement  un fichier
+ qui s'appelle "cha2",ensuite il faut l'ouvrir dans wireshark et faire un clic droit sur un protocol "Telnet" ,cliquer sur "suivre"
+ et entrer dans"flux TCP" et récupérer le mot de passe. 
+
+
+
+
