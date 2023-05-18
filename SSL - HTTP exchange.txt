@@ -1,4 +1,4 @@
-Entrer dans "STP-Authentification",cliquer sur "demarer le challenge" et cela va telecharger 
+Entrer dans "SSL-HTTP exchange",cliquer sur "demarer le challenge" et cela va telecharger 
 un fichier qui s'appelle "ch5.pcap" et en suite l'ouvrir dans wireshark .Dans ce fichier nous 
 pouvons voir des protocoles TCP et TLSv1, il faut dechiffrer le traffic TLSv1.Pour faire le 
 dechiffrement nous avons besoin d'une cle prive .Et pour avoir le cle prive ,il faut acceder
